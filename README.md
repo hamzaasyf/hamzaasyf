@@ -1,36 +1,50 @@
-# Hi, I'm Muhammad Hamza Asif 👋
+# Muhammad Hamza Asif
 
-**Senior AI / Computer Vision Engineer** · 6+ years building and deploying production computer vision, video forensics, and generative AI systems.
+**AI Engineer · LLM apps, AI automation, speech AI and computer vision**
 
-I've delivered 100+ AI/ML projects for international clients, with deep hands-on work across object detection & tracking, OCR, image/video forensics (tampering & deepfake detection), audio AI, and GPU-optimized deployment (CUDA, TensorRT) — from cloud APIs to fully offline, edge-deployed systems.
+I build AI systems that work in production: in the cloud, on edge devices, or fully offline on secure machines. 6+ years, 100+ projects for clients worldwide, MSc Data Science (University of Greenwich).
 
-- 🔭 Currently building computer vision & GenAI pipelines for international clients (freelance, Upwork)
-- 🧠 Focus areas: Computer Vision, Video Analytics, OCR/ANPR, Deepfake & Tampering Detection, Audio AI, Vision-Language Models (CLIP family)
-- ⚡ GPU optimization: CUDA, cuDNN, TensorRT, ONNX Runtime, mixed-precision inference
-- 🛠️ Backend/deployment: FastAPI, Flask, Docker, AWS (EC2), NVIDIA Jetson / Edge AI
-- 📫 Reach me: hamzaasyf1@gmail.com · [LinkedIn](https://www.linkedin.com/in/hamzaasyf/) · [Upwork](https://www.upwork.com/freelancers/hamzaasyf)
+**Portfolio with demo videos: [hamzaasyf.github.io](https://hamzaasyf.github.io/)**
 
-## 🧰 Tech Stack
+### What I build
 
-**Languages & Core:** Python · SQL
-**DL Frameworks:** PyTorch · TensorFlow · Keras · ONNX · TensorRT · TFLite
-**Computer Vision:** OpenCV · YOLOv5/v8 · ByteTrack · Detectron2 · OneFormer · EasyOCR
-**Generative AI / VLMs:** CLIP · GeoCLIP/StreetCLIP · Hugging Face Transformers · GANs · VAEs
-**Audio:** WhisperX · DeepSpeech
-**Backend & Infra:** FastAPI · Flask · Docker · AWS · Linux · Git
+- **LLM applications and automation:** assistants that answer from your own documents and data, plain-English questions over databases, workflow automation, local and private LLMs
+- **Speech and audio AI:** transcription with speaker labels, translation, call and meeting summaries, redaction of personal details
+- **Computer vision:** detection, tracking, OCR and licence plates, segmentation, video analytics, edge deployment on NVIDIA Jetson
+- **Deployment and optimisation:** PyTorch to ONNX and TensorRT, FP16, FastAPI services on AWS, offline desktop apps
 
-## 📌 Featured Projects
+### Selected client work
 
-| Project | Description |
+Client code is private under NDA. These are summaries only.
+
+| Project | What it does |
 |---|---|
-| **RTMOS** | Real-time multi-object instance segmentation for self-driving perception stacks (PyTorch, OpenCV) |
-| **Retail Analytics Platform** | YOLOv8 + ByteTrack people counting & age classification, deployed on NVIDIA Jetson Nano |
-| **AI Floor Visualization Platform** | OneFormer-based floor segmentation with wall-to-wall mask refinement, served via FastAPI on AWS |
-| **RTSP-Stream-OpenCV** | Read, write, and display RTSP streams using OpenCV + Python |
-| **Footfall Manager** | Edge-deployed (Jetson) footfall counter for retail/mall analytics |
-| **Parking Space Detection** | Real-time occupied vs. free parking space tracking from a static camera feed |
+| Offline media-analysis platform | 70+ AI tools for a digital forensics software company, shipped as 4 licensed desktop apps that run fully offline |
+| Retail analytics at the edge | People counting, dwell time and shopper analytics running live on NVIDIA Jetson devices in stores |
+| AI floor visualisation | Floor segmentation API on AWS that lets shoppers preview new flooring in a photo of their room |
+| Speech intelligence pipeline | Transcription, speaker labels, translation, summaries and redaction, all offline |
 
-## 📊 GitHub Stats
+### Open-source demos
 
-<!-- Optional: uncomment once repos are populated, these are live-rendered badges -->
-<!-- ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaasyf&show_icons=true&theme=default) -->
+Each one is a clean rebuild on public models and data, and runs in your browser.
+
+| Demo | What it does | Live |
+|---|---|---|
+| [Face Redaction](https://github.com/hamzaasyf/face-redaction) | Finds and hides every face in photos, crowds and CCTV frames | [Try it](https://huggingface.co/spaces/hamzaasyf/face-redaction) |
+| [Multilingual OCR](https://github.com/hamzaasyf/multilingual-ocr) | Reads text in 18 languages from photos, scans and PDFs | [Try it](https://hamzaasyf.github.io/multilingual-ocr/) |
+| [CV Parser with RAG](https://github.com/hamzaasyf/cv-parser-rag) | Structured CV data, plain-English search and job matching with cited evidence | [Try it](https://hamzaasyf.github.io/cv-parser-rag/) |
+| [AI Receptionist](https://github.com/hamzaasyf/ai-receptionist-showcase) | A self-hosted voice assistant that answers calls and books appointments. Showcase only, no code | |
+| [RTSP-Stream-OpenCV](https://github.com/hamzaasyf/RTSP-Stream-OpenCV) | Read, write and display RTSP camera streams with OpenCV and Python | |
+
+### Tech stack
+
+**Languages:** Python, SQL
+**ML and deep learning:** PyTorch, TensorFlow, Hugging Face Transformers, ONNX, TensorRT
+**LLMs:** RAG, AI agents, LlamaIndex, Ollama, Qwen, Llama, LoRA fine-tuning
+**Speech:** Whisper / WhisperX, pyannote, SpeechBrain
+**Computer vision:** OpenCV, YOLO, ByteTrack, SAM, OneFormer, CLIP, PaddleOCR
+**Deployment:** FastAPI, Docker, AWS EC2, Linux, NVIDIA Jetson
+
+### Contact
+
+[Portfolio](https://hamzaasyf.github.io/) · [LinkedIn](https://www.linkedin.com/in/hamzaasyf/) · hamzaasyf1@gmail.com
