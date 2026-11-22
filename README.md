@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hamza Asif 👋
 
-**Senior AI / Computer Vision Engineer** · 5+ years building and deploying production computer vision, video forensics, and generative AI systems.
+**Senior AI / Computer Vision Engineer** · 6+ years building and deploying production computer vision, video forensics, and generative AI systems.
 
 I've delivered 100+ AI/ML projects for international clients, with deep hands-on work across object detection & tracking, OCR, image/video forensics (tampering & deepfake detection), audio AI, and GPU-optimized deployment (CUDA, TensorRT) — from cloud APIs to fully offline, edge-deployed systems.
 
